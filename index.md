@@ -13,7 +13,7 @@ A - B - [C](#letter_c) - D - E - F - G - H - I - J - K - L - M - N - O - P - Q -
 
 ---
 
-### C {#letter_C}
+### C {#letter_c}
 
 [*CAnhorn*](https://twitch.tv/canhorn) - Game Platform Architecture and Tool Development. **C#,ASP.NET,Blazor Wasm,TypeScript**
 
