@@ -9,7 +9,7 @@ This site is not unique, there are other sites out there that provide lists of s
 
 ---
 
-A - B - [C](#letter_c) - D - E - F - G - H - I - J - K - L - M - N - O - P - Q - R - S - [T](#letter_t) - U - V - W - X - Y - Z
+A - B - [C](#letter_c) - D - E - F - G - H - I - J - K - L - M - N - O - [P](#letter_p) - Q - R - S - [T](#letter_t) - U - V - W - X - Y - Z
 
 ---
 
@@ -17,7 +17,10 @@ A - B - [C](#letter_c) - D - E - F - G - H - I - J - K - L - M - N - O - P - Q -
 
 [*CAnhorn*](https://twitch.tv/canhorn) - Game Platform Architecture and Tool Development. **C#,ASP.NET,Blazor Wasm,TypeScript**
 
-### T {#letter_T}
+### P {#letter_p}
+[*pronerd_jay*](https://twitch.tv/pronerd_jay) - Python, Databases, and memes. **Python, Flask, SQLAlchemy, TwitchIO, Discord.py, Debian(ish) Linux, Google Cloud Platform, MDD methodologies and project management.*
+
+### T {#letter_t}
 
 [*tbdgamer*](https://twitch.tv/tbdgamer) - Development and discussion on development, architecture, best practices. **C#,Xamarin,ASP.NET**  
 [*thegrumpygamedev*](https://twitch.tv/thegrumpygamedev) - Test Driven Development of Console App Games using F#. **F#,.NET Core,Visual Studio,VS Code**  
