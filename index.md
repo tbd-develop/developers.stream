@@ -18,7 +18,7 @@ A - B - [C](#letter_c) - D - E - F - G - H - I - J - K - L - M - N - O - [P](#le
 [*CAnhorn*](https://twitch.tv/canhorn) - Game Platform Architecture and Tool Development. **C#,ASP.NET,Blazor Wasm,TypeScript**
 
 ### P {#letter_p}
-[*pronerd_jay*](https://twitch.tv/pronerd_jay) - Python, Databases, and memes. **Python, Flask, SQLAlchemy, TwitchIO, Discord.py, Debian(ish) Linux, Google Cloud Platform, MDD methodologies and project management.*
+[*pronerd_jay*](https://twitch.tv/pronerd_jay) - Python, Databases, and memes. **Python, Flask, SQLAlchemy, TwitchIO, Discord.py, Debian(ish) Linux, Google Cloud Platform, MDD methodologies and project management.**
 
 ### T {#letter_t}
 
