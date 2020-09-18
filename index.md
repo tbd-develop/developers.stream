@@ -15,14 +15,15 @@ This site is not unique, there are other sites out there that provide lists of s
 
 ### 6 {#number_6}
 
-**6FigureDev** [Twitch](https://twitch.tv/6figuredev) / [6FigureDev.com](https://6figuredev.com) 
+**6FigureDev** [Twitch](https://twitch.tv/6figuredev) / [6FigureDev.com](https://6figuredev.com)  
+
 &nbsp;&nbsp;&nbsp;&nbsp;- Podcast
 &nbsp;&nbsp;&nbsp;&nbsp;- Personal Projects
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Blazor CMS
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Triple Derby (Online Horse Racing Game)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- SpeakerMeet
 
-**C#,Blazor,React**
+&nbsp;&nbsp;&nbsp;**C#,Blazor,React**
 
 ### C {#letter_c}
 
