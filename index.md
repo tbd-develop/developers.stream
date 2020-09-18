@@ -17,22 +17,25 @@ This site is not unique, there are other sites out there that provide lists of s
 
 **6FigureDev** [Twitch](https://twitch.tv/6figuredev) / [6FigureDev.com](https://6figuredev.com)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;- Podcast
-&nbsp;&nbsp;&nbsp;&nbsp;- Personal Projects
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Blazor CMS
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Triple Derby (Online Horse Racing Game)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- SpeakerMeet
-
+&nbsp;&nbsp;&nbsp;&nbsp;- Podcast  
+&nbsp;&nbsp;&nbsp;&nbsp;- Personal Projects  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Blazor CMS  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Triple Derby (Online Horse Racing Game)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- SpeakerMeet  
+  
 &nbsp;&nbsp;&nbsp;**C#,Blazor,React**
 
+---
 ### C {#letter_c}
 
 [*CAnhorn*](https://twitch.tv/canhorn) - Game Platform Architecture and Tool Development. **C#,ASP.NET,Blazor Wasm,TypeScript**  
 [*CodeWithSean*](https://twitch.tv/codewithsean) - C#, Azure and related topics **C#,Pulumi,Azure DevOps**
 
+---
 ### P {#letter_p}
 [*pronerd_jay*](https://twitch.tv/pronerd_jay) - Python, Databases, and memes. **Python, Flask, SQLAlchemy, TwitchIO, Discord.py, Debian(ish) Linux, Google Cloud Platform, MDD methodologies and project management.**
 
+---
 ### T {#letter_t}
 
 [*tbdgamer*](https://twitch.tv/tbdgamer) - Development and discussion on development, architecture, best practices. **C#,Xamarin,ASP.NET**  
