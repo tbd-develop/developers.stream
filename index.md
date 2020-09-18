@@ -7,6 +7,8 @@ A curated list of development streamers. If you're interested in being on this l
 
 This site is not unique, there are other sites out there that provide lists of streamers such as [Belly.io](https://belly.io/). I am also a proud member of the [Live Coders team](https://livecoders.dev/members), and if you're a dev streamer you may be eligible to join the team. 
 
+If you have any suggestions for improvements, or ideas about what you might like to see or get from this, feel free to add an issue. 
+
 ---
 
 0 - 1 - 2 - 3 - 4 - 5 - [6](#number_6) - 7 - 8 - 9 - A - B - [C](#letter_c) - [D](#letter_d) - E - F - G - H - I - J - K - L - M - N - O - [P](#letter_p) - Q - R - S - [T](#letter_t) - U - V - W - X - Y - Z 
