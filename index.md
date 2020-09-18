@@ -9,7 +9,7 @@ This site is not unique, there are other sites out there that provide lists of s
 
 ---
 
-0 - 1 - 2 - 3 - 4 - 5 - [6](#number_6) - 7 - 8 - 9 - A - B - [C](#letter_c) - D - E - F - G - H - I - J - K - L - M - N - O - [P](#letter_p) - Q - R - S - [T](#letter_t) - U - V - W - X - Y - Z 
+0 - 1 - 2 - 3 - 4 - 5 - [6](#number_6) - 7 - 8 - 9 - A - B - [C](#letter_c) - [D](#letter_d) - E - F - G - H - I - J - K - L - M - N - O - [P](#letter_p) - Q - R - S - [T](#letter_t) - U - V - W - X - Y - Z 
 
 ---
 
@@ -30,6 +30,15 @@ This site is not unique, there are other sites out there that provide lists of s
 
 [*CAnhorn*](https://twitch.tv/canhorn) - Game Platform Architecture and Tool Development. **C#,ASP.NET,Blazor Wasm,TypeScript**  
 [*CodeWithSean*](https://twitch.tv/codewithsean) - C#, Azure and related topics **C#,Pulumi,Azure DevOps**
+
+---
+### D {#letter_d}
+
+**DevelopersGarage** [Twitch](https://twitch.tv/developersgarage) / [YouTube](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)  
+
+&nbsp;&nbsp;&nbsp;- Software Development Practices &amp; Technologies  
+
+&nbsp;&nbsp;&nbsp;**C#/.NET/JS/Jamstack**
 
 ---
 ### P {#letter_p}
