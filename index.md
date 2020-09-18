@@ -9,9 +9,20 @@ This site is not unique, there are other sites out there that provide lists of s
 
 ---
 
-A - B - [C](#letter_c) - D - E - F - G - H - I - J - K - L - M - N - O - [P](#letter_p) - Q - R - S - [T](#letter_t) - U - V - W - X - Y - Z
+0 - 1 - 2 - 3 - 4 - 5 - [6](#number_6) - 7 - 8 - 9 - A - B - [C](#letter_c) - D - E - F - G - H - I - J - K - L - M - N - O - [P](#letter_p) - Q - R - S - [T](#letter_t) - U - V - W - X - Y - Z 
 
 ---
+
+### 6 {#number_6}
+
+**6FigureDev** [Twitch](https://twitch.tv/6figuredev) / [6FigureDev.com](https://6figuredev.com) 
+- Podcast
+- Personal Projects
+    - Blazor CMS
+    - Triple Derby (Online Horse Racing Game)
+    - SpeakerMeet
+
+**C#,Blazor,React**
 
 ### C {#letter_c}
 
