@@ -48,3 +48,4 @@ If you have any suggestions for improvements, or ideas about what you might like
 
 [*tbdgamer*](https://twitch.tv/tbdgamer) - Development and discussion on development, architecture, best practices. **C#,Xamarin,ASP.NET**  
 [*thegrumpygamedev*](https://twitch.tv/thegrumpygamedev) - Test Driven Development of Console App Games using F#. **F#,.NET Core,Visual Studio,VS Code**  
+[*tynarus*](https://twitch.tv/tynarus) - Full stack web development and design - **JavaScript, HTML/CSS, TypeScript, ES6, Angular, NestJS, NodeJS, TypeORM, PostgresSQL, SQL, CLI tools**
