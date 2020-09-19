@@ -32,15 +32,12 @@ If you have any suggestions for improvements, or ideas about what you might like
 
 [*CAnhorn*](https://twitch.tv/canhorn) - Game Platform Architecture and Tool Development. **C#,ASP.NET,Blazor Wasm,TypeScript**  
 [*CodeWithSean*](https://twitch.tv/codewithsean) - C#, Azure and related topics **C#,Pulumi,Azure DevOps**
+**CuriousDrive** [Twitch](https://twitch.tv/curiousdrive) / [YouTube](https://www.youtube.com/c/curiousdrive) - Websites **C#,Javascript,Typepscript, ASP.NET MVC, Blazor**
 
 ---
 ### D {#letter_d}
 
-**DevelopersGarage** [Twitch](https://twitch.tv/developersgarage) / [YouTube](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)  
-
-&nbsp;&nbsp;&nbsp;- Software Development Practices &amp; Technologies  
-
-&nbsp;&nbsp;&nbsp;**C#/.NET/JS/Jamstack**
+**DevelopersGarage** [Twitch](https://twitch.tv/developersgarage) / [YouTube](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw) - Software Development Practices &amp; Technologies **C#/.NET/JS/Jamstack**
 
 ---
 ### P {#letter_p}
