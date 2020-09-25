@@ -11,7 +11,7 @@ If you have any suggestions for improvements, or ideas about what you might like
 
 ---
 
-0 - 1 - 2 - 3 - 4 - 5 - [6](#number_6) - 7 - 8 - 9 - A - B - [C](#letter_c) - [D](#letter_d) - E - F - G - H - I - J - K - L - M - N - O - [P](#letter_p) - Q - R - S - [T](#letter_t) - U - V - W - X - Y - Z 
+0 - 1 - 2 - 3 - 4 - 5 - [6](#number_6) - 7 - 8 - 9 - A - B - [C](#letter_c) - [D](#letter_d) - E - F - G - H - I - J - K - L - M - N - O - [P](#letter_p) - Q - [R](#letter_r) - S - [T](#letter_t) - U - V - W - X - Y - Z 
 
 ---
 
@@ -42,6 +42,11 @@ If you have any suggestions for improvements, or ideas about what you might like
 ---
 ### P {#letter_p}
 [*pronerd_jay*](https://twitch.tv/pronerd_jay) - Python, Databases, and memes. **Python, Flask, SQLAlchemy, TwitchIO, Discord.py, Debian(ish) Linux, Google Cloud Platform, MDD methodologies and project management.**
+
+---
+### R {#letter_r}
+
+[*RamblingGeek*](https://twitch.tv/ramblinggeek) - ASP.NET MVC Websites, Coding, learning. **C#,JS,Python,Powershell**
 
 ---
 ### T {#letter_t}
