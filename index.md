@@ -18,11 +18,11 @@ If you have any suggestions for improvements, or ideas about what you might like
 ### 6 {#number_6}
 
 #### [**6FigureDev**](https://twitch.tv/6figuredev) | [Twitch](https://twitch.tv/6figuredev) / [6FigureDev.com](https://6figuredev.com)
-  - Podcast
-  - Personal Projects
-  - Blazor CMS
-    - Triple Derby (Online Horse Racing Game)
-    - SpeakerMeet
+    - Podcast
+    - Personal Projects
+    - Blazor CMS
+      - Triple Derby (Online Horse Racing Game)
+      - SpeakerMeet
 
 *C#,Blazor,React*
 
