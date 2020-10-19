@@ -18,11 +18,11 @@ If you have any suggestions for improvements, or ideas about what you might like
 ### 6 {#number_6}
 
 #### [**6FigureDev**](https://twitch.tv/6figuredev) | [Twitch](https://twitch.tv/6figuredev) / [6FigureDev.com](https://6figuredev.com)
-- Podcast
-- Personal Projects
-- Blazor CMS
-- Triple Derby (Online Horse Racing Game)
-- SpeakerMeet
+  - Podcast
+  - Personal Projects
+  - Blazor CMS
+    - Triple Derby (Online Horse Racing Game)
+    - SpeakerMeet
 
 *C#,Blazor,React*
 
@@ -56,7 +56,7 @@ Software Development Practices &amp; Technologies
 ---
 ### P {#letter_p}
 
-#### [**pronerd_jay**](https://twitch.tv/pronerd_jay) | [Twitch] (https://twitch.tv/pronerd_jay)
+#### [**pronerd_jay**](https://twitch.tv/pronerd_jay) | [Twitch](https://twitch.tv/pronerd_jay)
 Python, Databases, and memes. 
 
 *Python, Flask, SQLAlchemy, TwitchIO, Discord.py, Debian(ish) Linux, Google Cloud Platform, MDD methodologies and project management.*
