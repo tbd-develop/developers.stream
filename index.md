@@ -42,7 +42,7 @@ If you have any suggestions for improvements, or ideas about what you might like
 </div>
 <div>
     <div>[**CuriousDrive**](https://twitch.tv/curiousdrive) - [Twitch](https://twitch.tv/curiousdrive) / [YouTube](https://www.youtube.com/c/curiousdrive)</div>
-    <div>Websites, Learning and Career Growth **C#,Javascript,Typepscript, ASP.NET MVC, Blazor**
+    <div>Websites, Learning and Career Growth **C#,Javascript,Typepscript, ASP.NET MVC, Blazor**</div>
 </div>
 
 ---
