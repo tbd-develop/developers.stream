@@ -5,7 +5,7 @@ A curated list of development streamers. If you're interested in being on this l
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-** Help promote the list (and in turn your fellow streamers) on your stream
 
-This site is not unique, there are other sites out there that provide lists of streamers such as [Belly.io](https://belly.io/). I am also a proud member of the [Live Coders team](https://livecoders.dev/members), and if you're a dev streamer you may be eligible to join the team. 
+This site is not unique, there are other sites out there that provide lists of streamers such as [Belly.io](https://belly.io/). But, there is a site in the works, checkout https://github.com/tbd-friends/developers-stream for progress on that. 
 
 If you have any suggestions for improvements, or ideas about what you might like to see or get from this, feel free to add an issue. 
 
