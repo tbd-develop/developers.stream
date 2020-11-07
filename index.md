@@ -34,6 +34,11 @@ Game Platform Architecture and Tool Development.
 
 *C#,ASP.NET,Blazor Wasm,TypeScript* 
 
+#### [**CodeRushed**](https://twitch.tv/coderushed) | [Twitch](https://twitch.tv/coderushed)
+C#, TypeScript, dog-fooding CodeRush Visual Studio Extension, Unity (on Friday and Saturday)
+
+*C#, TypeScript, CodeRush, Unity*
+
 #### [**CodeWithSean**](https://twitch.tv/codewithsean) | [Twitch](https://twitch.tv/codewithsean)
 C#, Azure and related topics 
 
