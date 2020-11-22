@@ -29,6 +29,9 @@ If you have any suggestions for improvements, or ideas about what you might like
 ---
 ### C {#letter_c}
 
+#### [**calLowCreation**](https://twitch.tv/calLowCreation) | [Twitch](https://twitch.tv/calLowCreation)
+A family-owned and operated indie development team. It is all done in-house start to ship.
+
 #### [**CAnhorn**](https://twitch.tv/canhorn) | [Twitch](https://twitch.tv/canhorn)
 Game Platform Architecture and Tool Development. 
 
@@ -44,11 +47,15 @@ C#, Azure and related topics
 
 *C#,Pulumi,Azure DevOps*
 
+#### [**CopperBeardy**](https://twitch.tv/copperbeardy) | [Twitch](https://twitch.tv/copperbeardy)
+Learning, Building and having fun
+
+*C#,.Net,Blazor,Katas*
+
 #### [**CuriousDrive**](https://twitch.tv/curiousdrive) - [Twitch](https://twitch.tv/curiousdrive) / [YouTube](https://www.youtube.com/c/curiousdrive)
 Websites, Learning and Career Growth 
 
 *C#,Javascript,Typepscript, ASP.NET MVC, Blazor*
-
 
 ---
 ### D {#letter_d}
