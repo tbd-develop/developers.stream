@@ -69,7 +69,7 @@ Software Development Practices &amp; Technologies
 
 ### K {#letter_k}
 
-### [**Keboo**](https://twitch.keboo.dev) | [Twitch](https://twitch.keboo.dev) / [YouTube](https://youtube.keboo.dev)
+### [**kitokeboo**](https://twitch.keboo.dev) | [Twitch](https://twitch.keboo.dev) / [YouTube](https://youtube.keboo.dev)
 C#/.NET/WPF/Material Design in XAML/Dev Ops
 
 *C#/.NET/WPF*
