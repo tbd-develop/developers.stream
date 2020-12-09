@@ -11,9 +11,16 @@ If you have any suggestions for improvements, or ideas about what you might like
 
 ---
 
-0 - 1 - 2 - 3 - 4 - 5 - [6](#number_6) - 7 - 8 - 9 - A - B - [C](#letter_c) - [D](#letter_d) - E - F - G - H - I - J - [K](#letter_k) - L - M - N - O - [P](#letter_p) - Q - [R](#letter_r) - S - [T](#letter_t) - U - V - W - X - Y - Z 
+0 - [1](#number_1) - 2 - 3 - 4 - 5 - [6](#number_6) - 7 - 8 - 9 - A - B - [C](#letter_c) - [D](#letter_d) - E - F - G - H - I - J - [K](#letter_k) - L - M - N - O - [P](#letter_p) - Q - [R](#letter_r) - S - [T](#letter_t) - U - V - W - X - Y - Z 
 
 ---
+
+### 1 {#number_1}
+
+#### [**1kevgriff**](https://twitch.tv/1kevgriff) | [Twitch](https://twitch.tv/1kevgriff) / [YouTube](https://www.youtube.com/c/swiftkick) / [consultwithgriff.com](https://consultwithgriff.com) 
+Independent consultant.  Microsoft MVP.
+
+*C#, ASP.NET, ASP.NET Core, .NET, TypeScript, Vue.JS, JavaScript, TypeScript, Azure*
 
 ### 6 {#number_6}
 
